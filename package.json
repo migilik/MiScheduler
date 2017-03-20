@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TatchNicolas/MiScheduler#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "sqlite3": "^3.1.8"
   }
 }
