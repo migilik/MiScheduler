@@ -1,0 +1,22 @@
+{
+  "name": "mischeduler",
+  "version": "1.0.0",
+  "description": "Web application for scheduling events with multiple options of date and time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatchNicolas/MiScheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatchNicolas/MiScheduler/issues"
+  },
+  "homepage": "https://github.com/TatchNicolas/MiScheduler#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
